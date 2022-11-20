@@ -6,7 +6,7 @@ class Account{
 	private String name, email;
 	private float amount;
 	
-	 //public getter and setter methods
+	 //public getter and setter methods..
 	public long getAcc_no() {
 		return acc_no;
 	}
