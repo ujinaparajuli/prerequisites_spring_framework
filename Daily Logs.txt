@@ -1,0 +1,56 @@
+D1 2079-7-28
+literals, variables, date types, JDK, JRE, JVM 
+
+D2 7-29 
+command arguments,  type conversion widening & narrowing operators, Control Flow, decision (if, switch)
+
+D3 7-30
+loop(do while, while, for, for-each)
+jump(break, continue)
+
+D4 8-1
+Objects initializaion, this keyword, super, final, runtime polymorphism, upcasting, static binding, dynamic binding
+
+D5 8-2
+Absrtaction, Inheritence, Encapsulation, Methods, Constructor, static keyword
+
+D6 8-6
+Aggregation, overloading, overriding, package, recursion, array, array list 
+
+D7 8-7
+Strings, Exception Handling, pass by value, reference, socketing
+
+D8 8-8 
+jsp, servlets
+
+
+JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
+
+JVMs are available for many hardware and software platforms. JVM, JRE, and JDK are platform dependent because the configuration of each OS is different from each other. However, Java is platform independent. There are three notions of the JVM: specification, implementation, and instance.
+
+ The JVM performs the following main tasks:
+
+Loads code
+Verifies code
+Executes code
+Provides runtime environment
+
+
+Method Overloading in Java
+Different ways to overload the method
+By changing the no. of arguments
+By changing the datatype
+Why method overloading is not possible by changing the return type
+Can we overload the main method
+method overloading with Type Promotion
+If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
+
+If we have to perform only one operation, having same name of the methods increases the readability of the program.
+
+Suppose you have to perform addition of the given numbers but there can be any number of arguments, if you write the method such as a(int,int) for two parameters, and b(int,int,int) for three parameters then it may be difficult for you as well as other programmers to understand the behavior of the method because its name differs.
+
+So, we perform method overloading to figure out the program quickly. 
+
+
+
+
