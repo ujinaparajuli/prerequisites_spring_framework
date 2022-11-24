@@ -2,7 +2,7 @@ JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machin
 
 JVMs are available for many hardware and software platforms. JVM, JRE, and JDK are platform dependent because the configuration of each OS is different from each other. However, Java is platform independent. There are three notions of the JVM: specification, implementation, and instance.
 
-The JVM performs the following main tasks:
+ The JVM performs the following main tasks:
 
 Loads code
 Verifies code
