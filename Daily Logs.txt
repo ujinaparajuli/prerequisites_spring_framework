@@ -21,7 +21,7 @@ D7 8-7
 Strings, Exception Handling, pass by value, reference, socketing
 
 D8 8-8 
-jsp, servlets
+jsp, servlets, anonymous class, lambda expression, generics
 
 
 JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
