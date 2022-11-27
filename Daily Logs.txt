@@ -28,6 +28,14 @@ D9 8-9
 Hibernate Concepts
 
 
+D10 8-11
+architecture, ORM, JPA, 
+Required files for Hibernate Programming:
+a) configuration(.cfg.xml) file
+b) mapping (.hbm.xml) file
+POJO
+
+
 
 JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
 
