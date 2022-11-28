@@ -1,5 +1,5 @@
 //PASS BY VALUE 
-public class ValRef {
+public class ValReff {
 	int n = 400;
 	
 	void  update(int n) {
@@ -8,7 +8,7 @@ public class ValRef {
 	}
 	
 	public static void main(String[] args) {
-		ValRef ob = new ValRef();
+		ValReff ob = new ValReff();
 		System.out.println("Before calling function = "+ob.n);
 		ob.update(ob.n);
 		System.out.println("After calling function = "+ob.n);
