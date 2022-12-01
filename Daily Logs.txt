@@ -27,7 +27,6 @@ jsp, servlets, anonymous class, lambda expression, generics
 D9 8-9 
 Hibernate Concepts
 
-
 D10 79-8-11
 HB architecture, ORM, JPA, 
 Hibernate Programming:
@@ -48,6 +47,14 @@ Project Object Model (POM)
 Maven project to ease dependencies
 XML properties for Oracle & MySQL
 Dialect
+
+D12
+
+D13
+
+D14  8-15
+
+
 
 JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
 
