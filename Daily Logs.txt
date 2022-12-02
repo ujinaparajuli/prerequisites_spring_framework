@@ -53,6 +53,7 @@ D12
 D13
 
 D14  8-15
+Hibernate integration with Spring MVC
 
 
 
